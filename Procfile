@@ -1,2 +1,2 @@
-worker: python3 -m EvilBot
+worker: python3 -m SaitamaRobot
 ps:scale worker=1
